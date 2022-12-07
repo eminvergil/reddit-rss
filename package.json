@@ -1,0 +1,18 @@
+{
+  "name": "reddit-rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start2": "node index2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.12.0",
+    "snoowrap": "^1.23.0"
+  }
+}
